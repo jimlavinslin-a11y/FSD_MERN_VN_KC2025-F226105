@@ -1,0 +1,32 @@
+ .gallery {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     /* Center horizontally */
+     align-items: center;
+     /* Center vertically */
+     gap: 20px;
+     /* Equal spacing */
+     padding: 20px;
+ }
+
+ .gallery img {
+     width: 30%;
+     /* 3 images per row */
+     max-width: 300px;
+     border-radius: 10px;
+     cursor: pointer;
+ }
+
+ /* Make images responsive on small screens */
+ @media (max-width: 768px) {
+     .gallery img {
+         width: 45%;
+     }
+ }
+
+ @media (max-width: 480px) {
+     .gallery img {
+         width: 100%;
+     }
+ }

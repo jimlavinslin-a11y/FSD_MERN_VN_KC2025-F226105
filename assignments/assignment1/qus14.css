@@ -1,0 +1,21 @@
+  body {
+            margin: 0;
+            font-family: Arial;
+            display: flex;
+        }
+
+        /* Sticky Sidebar */
+        .sidebar {
+            width: 200px;
+            height: 100vh;
+            background: #222;
+            color: white;
+            padding: 20px;
+            position: sticky;
+            top: 0; /* Makes it stick while scrolling */
+        }
+
+        .content {
+            padding: 20px;
+            flex-grow: 1;
+        }

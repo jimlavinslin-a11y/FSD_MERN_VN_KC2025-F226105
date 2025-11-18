@@ -1,0 +1,14 @@
+ .custom-btn {
+            background-color: #4719b3; 
+            color: white;            
+            padding: 10px 20px;       
+            border: none;
+            border-radius: 8px;        
+            margin: 15px;              
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .custom-btn:hover {
+            background-color: #a50b0b; 
+        }
