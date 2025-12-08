@@ -1,0 +1,135 @@
+[
+{
+"id": "aids",
+"shortName": "AIDS",
+"name": "Artificial Intelligence and Data Science",
+"description": "AI & Data Science program with industry-aligned curriculum to solve real-world problems.",
+"fullDescription": "The B.Tech in Artificial Intelligence and Data Science, established in 2020, focuses on building data-driven solutions and strong communication skills. The department provides well-equipped labs, multi-modal teaching, and expert faculty to shape AI professionals.",
+"courses": ["Introduction to AI", "Machine Learning", "Data Structures", "Deep Learning", "Data Mining", "Big Data Analytics"],
+"faculty": [
+"Dr. IMMANUVEL AROKIA JAMES",
+"Dr ANBU S",
+"Dr S GEERTHIK",
+"Dr JEYAMURUGAN A",
+"VINITHA BABY P",
+"ARTHI P M",
+"ANITHA T",
+"DHIVYA D",
+"CHANDRA KALA R"
+],
+"labs": ["AI Lab", "Data Analytics Lab", "Python Programming Lab"]
+},
+{
+"id": "csbs",
+"shortName": "CSBS",
+"name": "Computer Science and Business Systems",
+"description": "Combines computer science with business systems to build software solutions for business problems.",
+"fullDescription": "CSBS aims to provide strong teaching and learning in business systems and foster innovative thinking for business product design. Students get practical exposure to current industry trends and opportunities to build interdisciplinary software products.",
+"courses": ["Business Systems Design", "Database Systems", "Web Technologies", "Software Engineering", "Enterprise Applications"],
+"faculty": [
+"Dr S PALANIKUMAR",
+"Dr M INDIRANI",
+"Dr R ANITHA",
+"PORKODI G",
+"GUNASEKAR M",
+"SABITHA E",
+"SARANYA S"
+],
+"labs": ["Software Lab", "Database Lab", "Business Systems Lab"]
+},
+{
+"id": "cse",
+"shortName": "CSE",
+"name": "Computer Science and Engineering",
+"description": "CSE department focusing on software, algorithms, and computing foundations.",
+"fullDescription": "Established in 1999, the CSE department has grown from 60 to 180 intake and is NBA accredited. It emphasizes rigorous academics, research, and industry collaboration, preparing students for careers in software and research.",
+"courses": ["Data Structures & Algorithms", "Operating Systems", "DBMS", "Computer Networks", "Compiler Design"],
+"faculty": [
+"Dr. K. Dinakaran",
+"Dr. R. Saravanan",
+"Dr. M. Victor Jose",
+"Dr. C. Jehan",
+"Dr. D. Stalin David",
+"Dr. K. Muthukannan",
+"Dr. M. Buvana",
+"Dr. E. Mercy Beulah"
+],
+"labs": ["Programming Lab", "DBMS Lab", "Networks Lab", "OS Lab"]
+},
+{
+"id": "it",
+"shortName": "IT",
+"name": "Information Technology",
+"description": "IT department with a research orientation and industry-linked projects.",
+"fullDescription": "The IT department supports research initiatives and has received project funding. It offers hands-on labs and industry-relevant curriculum to prepare students for IT careers.",
+"courses": ["Software Engineering", "Web Programming", "Network Security", "Cloud Computing", "Mobile App Development"],
+"faculty": [
+"PRABHU R",
+"Dr.SUBHASHINI.P",
+"Dr. THIAGARAJAN R",
+"Dr.RAJESH KHANNA",
+"VIDHYA LAKSHMI K",
+"MANJU J",
+"S.MADHAVI",
+"SANGEETHA. S"
+],
+"labs": ["Software Development Lab", "Network Lab", "Cloud Lab"]
+},
+{
+"id": "ece",
+"shortName": "ECE",
+"name": "Electronics and Communication Engineering",
+"description": "ECE department offering strong VLSI and communication programs with research grants.",
+"fullDescription": "Founded in 2000, ECE offers UG and PG (M.E. VLSI Design) and has received DST FIST grants. The department is NBA accredited and functions as a recognized research center with strong industry linkages.",
+"courses": ["Analog Circuits", "Digital Signal Processing", "VLSI Design", "Communication Systems"],
+"faculty": [
+"Dr.R.Ramesh",
+"Dr.V.Prabhu",
+"Dr.A.Karthikeyan",
+"Dr.M.Suganthy",
+"Dr.S.Ashok",
+"Dr.K.Chandrakala",
+"Dr.J.Joshua Bapu",
+"Dr.R.Kalpana"
+],
+"labs": ["VLSI Lab", "Communication Lab", "DSP Lab"]
+},
+{
+"id": "mechanical",
+"shortName": "Mechanical",
+"name": "Mechanical Engineering",
+"description": "Mechanical Engineering with well-furnished labs and a focus on research and teaching.",
+"fullDescription": "Started in 2006, the Mechanical department has grown to a larger intake and is NBA accredited. It emphasizes practical lab work, research, and preparing students for industry roles.",
+"courses": ["Thermodynamics", "Manufacturing Processes", "Machine Design", "Fluid Mechanics"],
+"faculty": [
+"Dr.M.SELVAM",
+"Dr.K.A.HARISH",
+"Dr.MUTHU KUMAR. S",
+"Dr.GANAPATHY SRINIVASAN.R",
+"Dr.S.SIVAKUMAR",
+"Dr T SANKARALINGAM",
+"Dr S RAMMOHAN",
+"Dr.S.YUVARAJ"
+],
+"labs": ["Manufacturing Lab", "Thermal Lab", "CAD/CAM Lab"]
+},
+{
+"id": "bme",
+"shortName": "BME",
+"name": "Bio Medical Engineering",
+"description": "BME department focused on biomedical tech and lab-based research.",
+"fullDescription": "Established in 2007, BME is NBA accredited and equipped with state-of-the-art laboratories. The department conducts workshops and supports research aiming to serve industry and society constructively.",
+"courses": ["Biomedical Instrumentation", "Biomaterials", "Medical Imaging", "Rehabilitation Engineering"],
+"faculty": [
+"Dr. BHARATHIRAJA N",
+"Dr. DURAIRAJ M",
+"Dr. SHANKER M C",
+"Dr. MANOJ PRASATH T",
+"Dr. SAI ISWARYA BAKAVATY T",
+"NITHYAKALYANI.K",
+"PRABHU T",
+"NABEEL AMRE"
+],
+"labs": ["Biomechanics Lab", "Medical Instrumentation Lab", "Signal Processing Lab"]
+}
+]

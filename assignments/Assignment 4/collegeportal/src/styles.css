@@ -1,0 +1,18 @@
+body{font-family:'Poppins', sans-serif; color:#2c2c2c; background:#faf7f3;}
+.navbar-brand small{color:#f4d27a; font-weight:600;}
+.btn-outline-dark{border-color:#b8860b;color:#791515;font-weight:500;}
+.btn-outline-dark:hover{background:#b8860b;color:#791515;}
+h1,h2,h3,h4,h5{color:#5a0e0e;font-family:'Playfair Display', serif;}
+.lead{color:#ffffffde;font-size:1.1rem;}
+.logo {
+  height: 50px;
+  width: auto;
+  object-fit: contain;
+}
+.veltechcollege {
+  height: 250px;
+  width: "100%";
+  object-fit: "cover";
+  border-radius: 10;
+}
+
